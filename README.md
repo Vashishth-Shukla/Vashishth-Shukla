@@ -50,3 +50,5 @@ I'm a **Software Developer** transitioning into **Cloud and DevOps Engineering**
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vashishth-Shukla)
 
 🚀 Always open to collaboration and learning new things!
+
+Thank you for visiting my profile! 🌟 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vashishth-Shukla.visitor-badge&format=true)
