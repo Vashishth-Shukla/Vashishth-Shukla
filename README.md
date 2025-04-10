@@ -51,4 +51,4 @@ I'm a **Software Developer** transitioning into **Cloud and DevOps Engineering**
 
 🚀 Always open to collaboration and learning new things!
 
-Thank you for visiting my profile! 🌟 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vashishth-Shukla.visitor-badge&format=true)
+Thank you for visiting my profile! 
